@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Entwicklung/tools/bildtools/metadata-extractor-2.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Entwicklung/tools/bildtools/metadata-extractor-2.9.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Entwicklung/tools/bildtools/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Entwicklung/tools/bildtools/junit-4.11-src.jar"/>
+	<classpathentry kind="lib" path="D:/Entwicklung/tools/bildtools/xmpcore-5.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Entwicklung/tools/bildtools/xmpcore-5.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Entwicklung/tools/commons-codec-1.10-bin/commons-codec-1.10/commons-codec-1.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
